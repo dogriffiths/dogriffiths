@@ -28,5 +28,5 @@ I'm reasonably approachable unless it's before I've had coffee.
 ### Social Media
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dogriffiths/) 
-[![YouTube](https://img.shields.io/badge/YouTube-ff0012?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCuwe3ZogkorSzfyFEiaJTIA?sub_confirmation=1) 
+[![YouTube](https://img.shields.io/badge/YouTube-cc0012?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCuwe3ZogkorSzfyFEiaJTIA?sub_confirmation=1) 
 [![BlueSky](https://img.shields.io/badge/BlueSky-1200ff?style=flat-square&logo=bsky&logoColor=white)](https://bsky.app/profile/dogriffiths.bsky.social)
