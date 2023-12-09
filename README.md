@@ -4,7 +4,7 @@ I've been writing software since I was about 12 years old, but to be frank, some
 
 Since then, I have gone through puberty. That was quite traumatic, so I'll draw a veil over the details. Then came university and a variety of jobs that mostly involved typing.
 
-I've written a few books, including ones on [Android development]([https://www.amazon.co.uk/Head-First-Android-Development-Learners/dp/149207652X/](https://www.amazon.co.uk/Head-First-Android-Development-Learners/dp/149207652X/?&_encoding=UTF8&tag=dogriffiths-21&linkCode=ur2&linkId=e5561688650fb98bb9a323537d6e74b8&camp=1634&creative=6738) and [React web development](https://www.amazon.co.uk/React-Cookbook-Recipes-Mastering-Framework/dp/1492085847/?&_encoding=UTF8&tag=dogriffiths-21&linkCode=ur2&linkId=006be06c44402a4310eb7a2ee2405178&camp=1634&creative=6738).
+I've written a few books, including ones on [Android development](https://www.amazon.co.uk/Head-First-Android-Development-Learners/dp/149207652X/?&_encoding=UTF8&tag=dogriffiths-21&linkCode=ur2&linkId=e5561688650fb98bb9a323537d6e74b8&camp=1634&creative=6738) and [React web development](https://www.amazon.co.uk/React-Cookbook-Recipes-Mastering-Framework/dp/1492085847/?&_encoding=UTF8&tag=dogriffiths-21&linkCode=ur2&linkId=006be06c44402a4310eb7a2ee2405178&camp=1634&creative=6738).
 
 I also give courses on the [O'Reilly Media learning platform](https://learning.oreilly.com), and I wrote--and illustrated--a [course on Agile development](https://www.oreilly.com/library/view/the-agile-sketchpad/9781771376099/), which involved an awful lot of ink, and you should consider looking at it because it will teach you a lot about what life's like when working on an agile software development project.
 
