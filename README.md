@@ -8,7 +8,7 @@ I've written a few books, including ones on [Android development](https://www.am
 
 I also give courses on the [O'Reilly Media learning platform](https://learning.oreilly.com), and I present a video course called [Business Writing Essentials](https://www.oreilly.com/videos/business-writing-essentials/0636920954453/) that will show you in 90 minutes how to go from no ideas, and a blank page, to a fully finished piece of writing.
 
-[![Watch the trailer](./video.png)](https://youtu.be/qeztunj8ryI)
+[![Watch the trailer](./video.png)](https://youtu.be/e_CwkhnRbtk?si=MVtigNKg7Gf3auY0)
 
 Aside from that, I'm the founder of a [company](https://www.herescreen.com) that produces a cloud-based version of the old clocking-in and clocking-out machines, and provides development consultancy for Android and front-end web development.
 
